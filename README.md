@@ -48,6 +48,10 @@ This section outlines the structure of the project and the purpose of each file:
 - `helpers.py`: Various helper functions.
 
 - `zhyu_dataexplore.ipynb`: Exploratory analysis and feature engineering of datasets
+- `data/`:
+  - `x_train`: The training data features 
+  - `y_train`: The training data labels 
+  - `x_test`: The test data features used to evaluate the model's performance.
 
 
   
